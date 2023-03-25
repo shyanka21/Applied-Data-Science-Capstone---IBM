@@ -16,14 +16,12 @@ Week 1
 
 Capstone Introduction and Understanding the Datasets
 
-1.Collecting the Data:
-
-2.Data Wrangling:
+1.Collecting the Data
+2.Data Wrangling
 
 Week 2
 
 1.Exploratory Analysis Using SQL
-
 2.Exploratory Analysis Using Pandas and Matplotlib
 
 Week 3
